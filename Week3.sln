@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week3", "Week3\Week3.csproj", "{98F9750C-9DC1-4790-9947-F8EEB16DCCF9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddOrEven", "OddOrEven\OddOrEven.csproj", "{3711F627-DCDC-4113-AADF-8510F747A25C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfDayOfTheWeek", "IfDayOfTheWeek\IfDayOfTheWeek.csproj", "{FB7E0D25-CCDC-4914-AB03-C54033E50D4F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchDayOfTheWeek", "SwitchDayOfTheWeek\SwitchDayOfTheWeek.csproj", "{93307BD2-DDD9-4E61-ADE4-1866CCDD4DE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeCheck", "GradeCheck\GradeCheck.csproj", "{EBD61525-F9A1-41C1-8210-0B4F6B9B27AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeCheck-Switch", "GradeCheck-Switch\GradeCheck-Switch.csproj", "{D0A88D09-D97E-466D-ADBF-DADA4CB1C259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F9750C-9DC1-4790-9947-F8EEB16DCCF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F9750C-9DC1-4790-9947-F8EEB16DCCF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F9750C-9DC1-4790-9947-F8EEB16DCCF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F9750C-9DC1-4790-9947-F8EEB16DCCF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3711F627-DCDC-4113-AADF-8510F747A25C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3711F627-DCDC-4113-AADF-8510F747A25C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3711F627-DCDC-4113-AADF-8510F747A25C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3711F627-DCDC-4113-AADF-8510F747A25C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7E0D25-CCDC-4914-AB03-C54033E50D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7E0D25-CCDC-4914-AB03-C54033E50D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7E0D25-CCDC-4914-AB03-C54033E50D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7E0D25-CCDC-4914-AB03-C54033E50D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93307BD2-DDD9-4E61-ADE4-1866CCDD4DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93307BD2-DDD9-4E61-ADE4-1866CCDD4DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93307BD2-DDD9-4E61-ADE4-1866CCDD4DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93307BD2-DDD9-4E61-ADE4-1866CCDD4DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD61525-F9A1-41C1-8210-0B4F6B9B27AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD61525-F9A1-41C1-8210-0B4F6B9B27AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD61525-F9A1-41C1-8210-0B4F6B9B27AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD61525-F9A1-41C1-8210-0B4F6B9B27AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A88D09-D97E-466D-ADBF-DADA4CB1C259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A88D09-D97E-466D-ADBF-DADA4CB1C259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A88D09-D97E-466D-ADBF-DADA4CB1C259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A88D09-D97E-466D-ADBF-DADA4CB1C259}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F51B1CB6-73C5-413E-8453-1B76DD36265F}
+	EndGlobalSection
+EndGlobal
